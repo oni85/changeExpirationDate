@@ -1,0 +1,71 @@
+* {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+.modal-content {
+    padding: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.5);
+}
+.container {
+  padding: 0px;
+}
+.modal-dialog {
+  width: 700px;
+}
+h4 {
+  font-size: 100%;
+  font-weight: 500;
+}
+.p-14 {
+  font-size: 78%;
+  font-weight: 400;
+}
+.p-12 {
+  font-size: 67%;
+  font-weight: 700;
+}
+.col {
+  padding: 5px;
+}
+code {
+  font-family: 'Lato', sans-serif;
+  font-size: 100%;
+  font-weight: 400;
+  color: #006bb4;
+  background-color: #efefef;
+  border-radius: 4px;
+}
+a {
+  font-size: 78%;
+  font-weight: 400;
+}
+label {
+  font-size: 72%;
+  font-weight: 400;
+}
+td {
+  padding: 5px 5px 5px 5px;
+}
+
+.background-buttons-primary {
+  background-color: #006fbb;
+}
+.background-buttons-secondary {
+  background-color: #b8afa9;
+}
+.background-secondary {
+  background-color: #f9f9f9;
+}
+.border-bottom {
+  border-bottom: solid 6px #b0b0b0;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+}
+.btn-default {
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc;
+    outline: none;
+}
